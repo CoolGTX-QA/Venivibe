@@ -6,7 +6,7 @@ public class Main {
 
     public void chromedrive(){
         ChromeDriver driver = new ChromeDriver();
-    /*public static void main (String[] args)
+    public static void main (String[] args)
     {
         String greeting = "Hello and welcome!";
         int number = 5;
@@ -20,9 +20,9 @@ public class Main {
         System.out.println("Is Active: " + isActive);
         System.out.println("Pi: " + pi);
         System.out.println("Letter: " + letter);
-        /*
 
-         */
+
+
 
         public void chromedrive(){
         ChromeDriver driver = new ChromeDriver();
@@ -30,13 +30,12 @@ public class Main {
 
         //this is a Comment example
 
-/*
+
     System.out.println("Hello World");
     Greeting greeting =new Greeting();
     greeting.hello();
     Messenger Messanger = new Messenger();
     Messanger.message();
 
- */
     }
 }
